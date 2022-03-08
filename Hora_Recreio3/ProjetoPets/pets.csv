@@ -1,0 +1,48 @@
+NOME,SEXO,RACA,PORTE,IDADE,CATEGORIA.IDADE,CARACTERISTICAS,HISTORIA
+Biquita,F,Akita,Alto,1,FILHOTE (0 a 1 ano),"Leal, amigo e brincalhão","FOI ATROPELADO, TEM 3 PATINHAS"
+Salsichão,M,Basset hound,Alto,3,JOVEM(2 a 5 anos),"Paciente, teimoso e charmoso",SOFREU MAUS TRATOS
+Bolinha,F,Beagle,Médio,7,ADULTO(6 a 10 anos),"Alegre, companheiro e aventureiro",FOI ABANDONADO 
+Espertinho,M,Bichon frisé,Médio,12,IDOSO(11 ANOS OU MAIS),"Brincalhão, curioso e afetivo",FOI ABANDONADO 
+Bolão,M,Boiadeiro australiano,Médio,7,ADULTO(6 a 10 anos),"Alerta, curioso e leal",SOFREU MAUS TRATOS
+Zeus,M,Border collie,Alto,12,IDOSO(11 ANOS OU MAIS),"Inteligente, leal e cheio de energia",SOFREU MAUS TRATOS
+Pequenina,F,Boston terrier,Médio,2,JOVEM(2 a 5 anos),"Amigável, inteligente e vivaz",SOFREU MAUS TRATOS
+Apolo,M,Boxer,Alto,3,JOVEM(2 a 5 anos),"Leal, afetuoso e brincalhão",FOI ABANDONADO 
+Eros,M,Buldogue francês,Alto,9,ADULTO(6 a 10 anos),"Carinhoso, leal e brincalhão",FOI ABANDONADO 
+Supimpa,F,Buldogue inglês,Alto,4,JOVEM(2 a 5 anos),"Calmo, divertido e dócil",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Marte,M,Bull terrier,Médio,9,ADULTO(6 a 10 anos),"Travesso, brincalhão e leal",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Búlticos,M,Cane corso,Baixo,1,FILHOTE (0 a 1 ano),"Protetor, leal e inteligente","FOI ATROPELADO, TEM 3 PATINHAS"
+Rei,M,Cavalier king charles spaniel,Alto,10,ADULTO(6 a 10 anos),"Companheiro, alegre e afetuoso",FOI ABANDONADO 
+Bella,F,Chihuahua,Médio,5,JOVEM(2 a 5 anos),"Charmoso, animado e atrevido",SOFREU MAUS TRATOS
+Bochechudo,M,Chow chow,Alto,10,ADULTO(6 a 10 anos),"Calmo, leal e orgulhoso",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Belo,M,Cocker spaniel inglês,Alto,2,JOVEM(2 a 5 anos),"Alegre, carinhoso e cheio de vida",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Linguicao,M,Dachshund,Médio,13,IDOSO(11 ANOS OU MAIS),"Corajoso, animado e inteligente",CEGO
+Gracinha,F,Dálmata,Médio,12,IDOSO(11 ANOS OU MAIS),"Atlético, protetor e amável",FOI ABANDONADO 
+Fofonete,F,Doberman,Médio,5,JOVEM(2 a 5 anos),"Inteligente, leal e protetor",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Bondosa,F,Dogo argentino,Médio,7,ADULTO(6 a 10 anos),"Leal, confiável e corajoso",SOFREU MAUS TRATOS
+Dogao,M,Dogue alemão,Alto,8,ADULTO(6 a 10 anos),"Amigável, paciente e dócil",FOI ABANDONADO 
+Docinha,F,Fila brasileiro,Baixo,8,ADULTO(6 a 10 anos),"Companheiro, corajoso e amoroso",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Ollie,M,Golden retriever,Alto,1,FILHOTE (0 a 1 ano),"Inteligente, brincalhão e leal","FOI ATROPELADO, TEM 3 PATINHAS"
+Levada,F,Husky siberiano,Médio,14,IDOSO(11 ANOS OU MAIS),"Amigável, trabalhador e extrovertido",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Sapequinha,F,Jack russell terrier,Médio,3,JOVEM(2 a 5 anos),"Amigável, atlético e alerta",FOI ABANDONADO 
+Labradoodle,M,Labrador retriever,Médio,12,IDOSO(11 ANOS OU MAIS),"Inteligente, carinhoso e brincalhão",SOFREU MAUS TRATOS
+Peludinho,M,Lhasa apso,Médio,8,ADULTO(6 a 10 anos),"Esperto, confiante e independente",FOI ABANDONADO 
+Leia,F,Lulu da pomerânia,Médio,13,IDOSO(11 ANOS OU MAIS),"Animado, inteligente e cheio de personalidade",SOFREU MAUS TRATOS
+Luluzinha,F,Maltês,Médio,4,JOVEM(2 a 5 anos),"Gentil, brincalhão e afetuoso",FOI ABANDONADO 
+Grandão,M,Mastiff inglês,Alto,10,ADULTO(6 a 10 anos),"Calmo, amável e leal",FOI ABANDONADO 
+Gigantão,M,Mastim tibetano,Alto,9,ADULTO(6 a 10 anos),"Independente, reservado e inteligente",SOFREU MAUS TRATOS
+Bravinho,M,Pastor alemão,Alto,1,FILHOTE (0 a 1 ano),"Confiante, corajoso e inteligente",FOI ABANDONADO 
+Tutuzinha,F,Pastor australiano,Alto,15,IDOSO(11 ANOS OU MAIS),"Esperto, trabalhador e exuberante",FOI RECOLHIDO EM UMA ESTRADA
+Docinha,F,Pastor de Shetland,Médio,3,JOVEM(2 a 5 anos),"Brincalhão, energético e esperto",CEGO
+Titico,M,Pequinês,Médio,12,IDOSO(11 ANOS OU MAIS),"Afetuoso, leal e elegante",FOI RECOLHIDO EM UMA ESTRADA
+Papaia,F,Pinscher,Médio,5,JOVEM(2 a 5 anos),"Brincalhão, carinhoso e protetor",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Calminho,M,Pit bull,Médio,7,ADULTO(6 a 10 anos),"Inteligente, forte e leal",FOI RECOLHIDO EM UMA ESTRADA
+Travessura,F,Poodle,Médio,1,FILHOTE (0 a 1 ano),"Orgulhoso, ativo e inteligente",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Telminha,F,Pug,Alto,7,ADULTO(6 a 10 anos),"Amoroso, temperamental e companheiro",CEGO
+Bonzinho,M,Rottweiler,Alto,3,JOVEM(2 a 5 anos),"Protetor, leal e inteligente",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Bigodudo,M,Schnauzer,Médio,8,ADULTO(6 a 10 anos),"Dócil, leal e companheiro",FOI RECOLHIDO EM UMA ESTRADA
+Boazinha,F,Shar-pei,Alto,5,JOVEM(2 a 5 anos),"Amoroso, companheiro e brincalhão",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Japinha,M,Shiba,Baixo,9,ADULTO(6 a 10 anos),"Independente, leal e alerta",FOI DOADO (FAMÍLIA SEM RECURSOS FINANCEIROS)
+Cookie,F,Shih tzu,Médio,3,JOVEM(2 a 5 anos),"Carinhoso, brincalhão e encantador",SOFREU MAUS TRATOS
+Chuquinha,F,Staffordshire bull terrier,Médio,16,IDOSO(11 ANOS OU MAIS),"Inteligente, corajoso e determinado",CEGO
+Fidalgo,M,Weimaraner,Baixo,7,ADULTO(6 a 10 anos),"Amigável, corajoso e independente",SOFREU MAUS TRATOS
+Brincalhona,F,Yorkshire,Médio,4,JOVEM(2 a 5 anos),"Destemido, carinhoso e cheio de energia",SOFREU MAUS TRATOS
